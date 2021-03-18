@@ -1,0 +1,6 @@
+﻿  Login.cpp
+  UI.cpp
+  User.cpp
+  Generating Code...
+Laborator 8.obj : error LNK2019: unresolved external symbol "void __cdecl loginTest(void)" (?loginTest@@YAXXZ) referenced in function main
+C:\Users\hp\source\repos\Laborator 8\x64\Debug\Laborator 8.exe : fatal error LNK1120: 1 unresolved externals
